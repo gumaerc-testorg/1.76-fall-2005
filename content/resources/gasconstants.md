@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 9715ca28-b5c7-6a05-2d0e-682b907de8cf
 resourcetype: Document
 title: gasconstants.pdf
 uid: 91b669af-3caa-2f7b-c2ca-b92f759fe71c

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 9715ca28-b5c7-6a05-2d0e-682b907de8cf
 resourcetype: Document
 title: acidbaseconst.pdf
 uid: 20d0ed10-4a40-d1ef-0d9b-55f961dcd8b3

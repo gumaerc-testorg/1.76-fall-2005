@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 9715ca28-b5c7-6a05-2d0e-682b907de8cf
 resourcetype: Document
 title: alpha_equations.pdf
 uid: af7bd770-2b58-b795-d6b0-5f2e051bca4b

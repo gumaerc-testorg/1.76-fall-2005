@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 9715ca28-b5c7-6a05-2d0e-682b907de8cf
 resourcetype: Document
 title: actycoeffeqns.pdf
 uid: 72f7cee3-51a0-83b0-4097-ab30f211e932

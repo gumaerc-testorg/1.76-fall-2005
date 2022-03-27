@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: cefe8de1-b604-e33c-535a-04b5c798df69
 resourcetype: Document
 title: practice.pdf
 uid: 3f2cf161-c8dc-e77f-30aa-e6ae8ec037c6
