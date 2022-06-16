@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section gives details on the course objectives, required
+  text, supplementary reading, grading, problem set policy and exam dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

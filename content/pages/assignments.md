@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section gives the assignments of the course and their
+  solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,37 +21,37 @@ ASSIGNMENTS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset1))
+Problem Set 1 ({{% resource_link 4cd54f83-6fa0-aace-4696-4ab72fdbb2bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset2))
+Problem Set 2 ({{% resource_link f1d69caf-b32b-93d5-357d-00bd5cd365a8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset3))
+Problem Set 3 ({{% resource_link 015301fb-9b0a-d73c-1a08-74a87979a6c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/pset4))
+Problem Set 4 ({{% resource_link c72e0919-4f51-46d5-36e4-856ade63d0a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/pset5))
+Problem Set 5 ({{% resource_link b35271b7-dcaa-36da-c40c-0e8ef81db3ec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/pset6))
+Problem Set 6 ({{% resource_link 49a28983-d659-4a07-0942-b41450544135 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
