@@ -4,6 +4,7 @@ description: This resource contains solutions of practice problems - lecture 2.
 file: /courses/1-76-aquatic-chemistry-fall-2005/53d9b600bacd5468c02cee91542715b3_pracprobsoln.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: pracprobsoln.pdf
 uid: 53d9b600-bacd-5468-c02c-ee91542715b3
 ---
 This resource contains solutions of practice problems - lecture 2.
-

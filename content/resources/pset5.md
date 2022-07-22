@@ -5,6 +5,7 @@ file: /courses/1-76-aquatic-chemistry-fall-2005/b35271b7dcaa36dac40c0e8ef81db3ec
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset5.pdf
 uid: b35271b7-dcaa-36da-c40c-0e8ef81db3ec
 ---
 This resource contains problems on redox chemistry and Fe(II).
-

@@ -6,6 +6,7 @@ file: /courses/1-76-aquatic-chemistry-fall-2005/f191083bf6f6970456be93b989843881
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps3soln.pdf
 uid: f191083b-f6f6-9704-56be-93b989843881
 ---
 This resource contains solutions of alkalinity effect, electroneutrality and acids.
-
