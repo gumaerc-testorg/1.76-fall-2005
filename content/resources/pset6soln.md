@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions on rate of chlorination and pH.
 file: /courses/1-76-aquatic-chemistry-fall-2005/5420cc977f2d9528950f7f251c1f3e37_pset6soln.pdf
+file_size: 122048
 file_type: application/pdf
 learning_resource_types:
 - Assignments
