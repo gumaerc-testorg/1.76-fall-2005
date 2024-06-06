@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on monoprotic acids and ionisation
   fractions for multiprotic acids.
 file: /courses/1-76-aquatic-chemistry-fall-2005/af7bd7702b58b795d6b05f2e051bca4b_alpha_equations.pdf
+file_size: 88493
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
