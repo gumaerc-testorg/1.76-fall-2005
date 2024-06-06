@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions on electroneutrality, river water, acids
   and bases and open system.
 file: /courses/1-76-aquatic-chemistry-fall-2005/c40d983a667b0a3044c80581f469d812_ps1soln.pdf
+file_size: 354032
 file_type: application/pdf
 learning_resource_types:
 - Assignments

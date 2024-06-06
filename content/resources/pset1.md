@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problems on mass balance and electroneutrality,
   tableau method and equilibrium pH.
 file: /courses/1-76-aquatic-chemistry-fall-2005/4cd54f836fa0aace46964ab72fdbb2bb_pset1.pdf
+file_size: 82554
 file_type: application/pdf
 learning_resource_types:
 - Assignments

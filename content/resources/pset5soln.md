@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions on redox chemistry and Fe(II).
 file: /courses/1-76-aquatic-chemistry-fall-2005/e9c68fb9e7243cebb1926de5ca75c828_pset5soln.pdf
+file_size: 271938
 file_type: application/pdf
 learning_resource_types:
 - Assignments
