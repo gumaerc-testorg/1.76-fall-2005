@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on redox chemistry and Fe(II).
-file: /courses/1-76-aquatic-chemistry-fall-2005/b35271b7dcaa36dac40c0e8ef81db3ec_pset5.pdf
+file: /ol-ocw-studio-app/courses/1-76-aquatic-chemistry-fall-2005/b35271b7dcaa36dac40c0e8ef81db3ec_pset5.pdf
 file_size: 147382
 file_type: application/pdf
 learning_resource_types:
