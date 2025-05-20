@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on gas constants.
-file: /ol-ocw-studio-app/courses/1-76-aquatic-chemistry-fall-2005/91b669af3caa2f7bc2cab92f759fe71c_gasconstants.pdf
+file: /courses/1-76-aquatic-chemistry-fall-2005/91b669af3caa2f7bc2cab92f759fe71c_gasconstants.pdf
 file_size: 38355
 file_type: application/pdf
 learning_resource_types: []
