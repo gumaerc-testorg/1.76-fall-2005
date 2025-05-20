@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resuorce contains problems on the rate of chlorination and pH.
-file: /ol-ocw-studio-app/courses/1-76-aquatic-chemistry-fall-2005/49a28983d6594a070942b41450544135_pset6.pdf
+file: /courses/1-76-aquatic-chemistry-fall-2005/49a28983d6594a070942b41450544135_pset6.pdf
 file_size: 30389
 file_type: application/pdf
 learning_resource_types:

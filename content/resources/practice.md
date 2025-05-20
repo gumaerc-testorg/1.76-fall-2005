@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains questions on strategies to acquire Fe, Fe(II)
   and Fe(III) complexes and disadvantage for marine organisms using the siderophores
   production strategy.
-file: /ol-ocw-studio-app/courses/1-76-aquatic-chemistry-fall-2005/3f2cf161c8dce77f30aae6ae8ec037c6_practice.pdf
+file: /courses/1-76-aquatic-chemistry-fall-2005/3f2cf161c8dce77f30aae6ae8ec037c6_practice.pdf
 file_size: 57866
 file_type: application/pdf
 learning_resource_types:
