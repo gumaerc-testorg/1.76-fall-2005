@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on clarification re phase rule.
-file: /ol-ocw-studio-app/courses/1-76-aquatic-chemistry-fall-2005/3e626f2d3b3028b2dc3367fb07c00108_phasruleclarifn.pdf
+file: /courses/1-76-aquatic-chemistry-fall-2005/3e626f2d3b3028b2dc3367fb07c00108_phasruleclarifn.pdf
 file_size: 1126135
 file_type: application/pdf
 learning_resource_types: []

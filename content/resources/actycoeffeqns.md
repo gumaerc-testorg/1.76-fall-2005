@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on Debye Hiickel.
-file: /ol-ocw-studio-app/courses/1-76-aquatic-chemistry-fall-2005/72f7cee351a083b04097ab30f211e932_actycoeffeqns.pdf
+file: /courses/1-76-aquatic-chemistry-fall-2005/72f7cee351a083b04097ab30f211e932_actycoeffeqns.pdf
 file_size: 24930
 file_type: application/pdf
 learning_resource_types: []
