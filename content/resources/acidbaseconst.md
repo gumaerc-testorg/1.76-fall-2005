@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on acidity and basicity constants
   for substances in aqueous solution at 25 degrees centigrade.
-file: /courses/1-76-aquatic-chemistry-fall-2005/20d0ed104a40d1ef0d9b55f961dcd8b3_acidbaseconst.pdf
+file: /ol-ocw-studio-app/courses/1-76-aquatic-chemistry-fall-2005/20d0ed104a40d1ef0d9b55f961dcd8b3_acidbaseconst.pdf
 file_size: 283538
 file_type: application/pdf
 learning_resource_types: []
